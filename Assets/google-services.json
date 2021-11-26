@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235905114888",
+    "firebase_url": "https://sin-phyu-taw-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sin-phyu-taw",
+    "storage_bucket": "sin-phyu-taw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235905114888:android:a83d937bc22343903602bd",
+        "android_client_info": {
+          "package_name": "com.test.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235905114888-e6d668l8r9upkl2jgfri5cp3kbg6edc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.logintest",
+            "certificate_hash": "cad41e7159182e9ef65226cbe554f89caa53dcad"
+          }
+        },
+        {
+          "client_id": "235905114888-i3pih5b2vnpnfcut96ftjhlohksfg49l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhB0VhsVkK7U4cF64D3EB4nR3nuT3puE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235905114888-i3pih5b2vnpnfcut96ftjhlohksfg49l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

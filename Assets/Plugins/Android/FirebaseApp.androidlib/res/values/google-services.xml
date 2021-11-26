@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">235905114888</string>
+  <string name="google_storage_bucket" translatable="false">sin-phyu-taw.appspot.com</string>
+  <string name="project_id" translatable="false">sin-phyu-taw</string>
+  <string name="google_api_key" translatable="false">AIzaSyCbhB0VhsVkK7U4cF64D3EB4nR3nuT3puE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCbhB0VhsVkK7U4cF64D3EB4nR3nuT3puE</string>
+  <string name="google_app_id" translatable="false">1:235905114888:android:a83d937bc22343903602bd</string>
+  <string name="default_android_client_id" translatable="false">235905114888-e6d668l8r9upkl2jgfri5cp3kbg6edc2.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">235905114888-i3pih5b2vnpnfcut96ftjhlohksfg49l.apps.googleusercontent.com</string>
+</resources>
